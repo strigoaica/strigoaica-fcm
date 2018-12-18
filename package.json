@@ -1,0 +1,34 @@
+{
+  "name": "strigoaica-fcm",
+  "version": "0.0.1",
+  "description": "Strigoaica - Firebase Cloud Messaging Strategy",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "agathias": "^0.0.4",
+    "strigoaica-strategy": "^0.0.2"
+  },
+  "devDependencies": {
+    "@types/node": "^10.5.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Stefanos Chrs <chrsstefanos@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/strigoaica/strigoaica-fcm.git"
+  },
+  "keywords": [
+    "strigoaica",
+    "fcm",
+    "strategy"
+  ],
+  "bugs": {
+    "url": "https://github.com/strigoaica/strigoaica-fcm/issues"
+  },
+  "homepage": "https://github.com/strigoaica/strigoaica-fcm#readme"
+}
